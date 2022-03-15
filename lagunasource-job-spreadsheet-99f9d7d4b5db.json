@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lagunasource-job-spreadsheet",
+  "private_key_id": "99f9d7d4b5db20ec3cb74f4c3b351d392acd4600",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCkLuRbDmeVIjTu\nxMBCrcU/YeciOTsttRBPqEvFP48v85Ga1UbLNo0H8RUEFmAClTnHt+DY7EzTUprt\nU3CdJi5YBT+Ap7CoC1UtWCzEtHSf8AtBcFTugQSnGOfoT9wx1NsJ1qe/mkSMA5IM\nBDmCSFYgbWSGpYVrbQTNBZjZd7hmd0wkSQaBKSfXSD/bs1bkjRgM4moYZfvdzpm6\nVcTsmxn3meSTbpd7mIdJOmI1m+8yEaHV+yNdkCISUJ43cC2sYzGcVXRXdAM3Ju84\nA/sVkBWv499OgFckz8QZdpfFUDWsMCbr1XUiAZJpwAczA6MlYUpixVqwegQCk61g\ny2dhf3yjAgMBAAECggEAGHvwYgPhPpmTUJLWznAg8jV6GohzuCVAVstqQUgb5QgV\ntq6yQqvSlv9E0GSQfNIe2Rclg4lPC6n4oLEeIiayJ+jgciHlHlT8/CjMxFOE8N+t\n+LGfzibqDWE8HvuJ2C8+Baw/5+WW7f+6T+scCGnGg593VlJoyym+2t7yzxDOLGQb\nZT1F2+EvBnIEIkjgnQcxVWJy9o6FabfmH3I6IBLrURjy8UXxUx/IEpaYeZc3ooJR\nxFx1AItFkPsklxd00ZO1sluTIW13zju5sDBy+PLIzhvmqq4ayfSqmUUXi1JkCpZT\njAb396Yw4OOU+RVa7xgCjQ37yY2DfHWKxFI+H2z3AQKBgQDcbe87ztNXnYsBN4K+\ngb70F9vEuAqO3Y5unw8h0xpFB1joqxiXjOUdLibPmNx+Jqgilyxr8z0MXqGIofa9\nWtLACPiZpmifJRoWiYXourS3yavWzJSBT2bgeuyEiBcVF9zHmxQGX2EGerROfItK\nH+fLxB9jO/0YQRCfDt0doeDoMwKBgQC+rWR3r0lxlq6l+flWgKLgXLlQIhT7oNYS\nDC3ee0z78wGGONmHadE5/KgiFETkh/ki3lJHLNl0qAAan9iKsd+aR2cMXRG3Bm61\nTgsn1QNqK2MBa4OdmlS5EJzGC0yzsVI71wLY5gT6HHiajhsQDSacCJi+MLMP9NMf\nzbafnsdp0QKBgEbiZ2NRQG9Vb0UF59qBeLmgDoE1Odf1cX8rUT9sVm9KTJINq0vY\n+DipBbwOiSFcJwdwm81fHAulRsbcZq8/zLQKbn9inxRGZxxGPzS3DbRoewUJJtxq\nf0fC39pCtUGIOexKd2cRNu9ReDghHt3IYs8JE5riyKILEmBD9GE6FEw3AoGAbOau\n+MQ+GAfNW7I3O7ZgT+/lTuUIQuaLHOej0uts/oC9oCEb7AD9pDau+DfHWRZnrgh3\nyXrN/5hr5sjgbeZFJOIe8qq9EWE1HYujR26bcqmw9ACpvPuF4+SfBWUyu3ZM1yxn\nzeUhdo+IOg1rW3GHWZp3UjiSLEzRv9pHsUaH8eECgYAo8J0h2kxDNq9lfE7P0Gxq\nH08JasDlvGu/0iqe9P2RVpqqWzyQ/dCy2I0HyT95O/ReuV8QroSheU8geUupW8AX\njnzYZUlIOmSw21hEwopE7OOcRik88H109SOp8g/DaQkgPe3sxTH2iiLKPlG2RTGi\nlj2ABXBzdwb1gxiD1HL5jg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "doucette-danyelle@lagunasource-job-spreadsheet.iam.gserviceaccount.com",
+  "client_id": "117152166121497157230",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/doucette-danyelle%40lagunasource-job-spreadsheet.iam.gserviceaccount.com"
+}
